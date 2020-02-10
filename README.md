@@ -1,3 +1,14 @@
+# Blogs to Follow
+1. [Airbnb](https://medium.com/airbnb-engineering)
+2. [Uber](https://eng.uber.com/category/articles/ai/)
+3. [Linkedin](https://engineering.linkedin.com/blog)
+4. [Netflix](https://netflixtechblog.com/)
+5. [Lyft](https://eng.lyft.com/)
+6. [Pinterest](https://medium.com/@Pinterest_Engineering)
+7. [Stitchfix](https://multithreaded.stitchfix.com/blog/)
+8. [Quora](https://www.quora.com/q/quoraengineering?sort=top)
+9. [Yelp](https://engineeringblog.yelp.com/index.html)
+
 # ArticlesToRead
 
 1. [how to build a data science pipeline](https://towardsdatascience.com/how-to-build-a-data-science-pipeline-f24341848045)
