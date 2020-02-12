@@ -22,4 +22,5 @@
 9. [The art of effective visualization of multi-dimensional data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
 10. [Understanding density based clustering](https://www.kdnuggets.com/2020/02/understanding-density-based-clustering.html)
 11. [Future Machine Learning less engineering](https://www.kdnuggets.com/2020/02/future-machine-learning-less-engineering.html)
-12. [DevOps for Machine Learning](https://www.datasciencecentral.com/profiles/blogs/devops-for-machine-learning-ml-ai)
+12. [DevOps for Machine Learning](https://www.datasciencecentral.com/profiles/blogs/devops-for-machine-learning-ml-ai))
+13. [Seven differences between academia and industry for building](https://www.datasciencecentral.com/profiles/blogs/seven-differences-between-academia-and-industry-for-building)
