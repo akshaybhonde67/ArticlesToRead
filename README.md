@@ -24,3 +24,4 @@
 11. [Future Machine Learning less engineering](https://www.kdnuggets.com/2020/02/future-machine-learning-less-engineering.html)
 12. [DevOps for Machine Learning](https://www.datasciencecentral.com/profiles/blogs/devops-for-machine-learning-ml-ai))
 13. [Seven differences between academia and industry for building](https://www.datasciencecentral.com/profiles/blogs/seven-differences-between-academia-and-industry-for-building)
+14. [Machine Learning for Business](https://softmedialab.com/blog/machine-learning-for-business/)
