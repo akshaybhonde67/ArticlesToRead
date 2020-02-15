@@ -28,3 +28,4 @@
 15. [Regularization in Machine-Learning](https://www.datasciencecentral.com/profiles/blogs/regularization-in-machine-learning)
 16. [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 17. [Automated Machine Learning hyperparameter tuning](https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a)
+18. [10 Machine Learning methods that every data scientist should know](https://www.datasciencecentral.com/profiles/blogs/10-machine-learning-methods-that-every-data-scientist-should-know)
