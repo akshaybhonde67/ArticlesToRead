@@ -25,3 +25,4 @@
 12. [DevOps for Machine Learning](https://www.datasciencecentral.com/profiles/blogs/devops-for-machine-learning-ml-ai))
 13. [Seven differences between academia and industry for building](https://www.datasciencecentral.com/profiles/blogs/seven-differences-between-academia-and-industry-for-building)
 14. [Machine Learning for Business](https://softmedialab.com/blog/machine-learning-for-business/)
+15. [Regularization in Machine-Learning](https://www.datasciencecentral.com/profiles/blogs/regularization-in-machine-learning)
