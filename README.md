@@ -27,3 +27,4 @@
 14. [Machine Learning for Business](https://softmedialab.com/blog/machine-learning-for-business/)
 15. [Regularization in Machine-Learning](https://www.datasciencecentral.com/profiles/blogs/regularization-in-machine-learning)
 16. [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
+17. [Automated Machine Learning hyperparameter tuning](https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a)
