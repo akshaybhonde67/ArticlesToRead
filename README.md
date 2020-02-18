@@ -29,3 +29,4 @@
 16. [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 17. [Automated Machine Learning hyperparameter tuning](https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a)
 18. [10 Machine Learning methods that every data scientist should know](https://www.datasciencecentral.com/profiles/blogs/10-machine-learning-methods-that-every-data-scientist-should-know)
+19. [The Data Science Interview Study Guide](https://medium.com/better-programming/the-data-science-interview-study-guide-c3824cb76c2e)
